@@ -1,12 +1,11 @@
 import React from 'react' 
-import EducationForm from './EducationForm';
 import ExperienceForm from './ExperienceForm'
 
 function Experience(props){
     const { experience, handleChange, handleAdd, handleDelete } = props;
     const experienceElements = experience.map((object, index) => {
         return (
-            <EducationForm
+            <ExperienceForm
               key={object.id}
               id={object.id}
               experience={object}
