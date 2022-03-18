@@ -78,7 +78,7 @@ function Personal(props){
             </div>
 
             <div className='field'>
-                <label>Desctiption</label>
+                <label>About Me</label>
                 <textarea
                   name='description'
                   cols='30'
