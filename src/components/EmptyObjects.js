@@ -26,4 +26,4 @@ const emptyExperience = {
     to: '',
 };
 
-export {emptyPersonal, emptyExperience, emptyEducation};
+export { emptyPersonal, emptyExperience, emptyEducation };
