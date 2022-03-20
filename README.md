@@ -13,5 +13,8 @@ Class omponents | Functional Components | props | state | Advanced CSS Functions
 **Technologies Used**
 
 HTML | CSS | Javascript | React
+
+Live Demo --> https://dhary-anne.github.io/cv-builder/
+
 <img width="1262" alt="Screen Shot 2022-03-19 at 10 57 30 PM" src="https://user-images.githubusercontent.com/89426886/159146074-e0912bb0-0739-4a9c-93cf-a2ff412fd195.png">
 <img width="1262" alt="Screen Shot 2022-03-19 at 11 00 16 PM" src="https://user-images.githubusercontent.com/89426886/159146147-9cb331e2-779d-466d-9f96-5aaf690dcd3f.png">
