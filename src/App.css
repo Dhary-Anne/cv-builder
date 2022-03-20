@@ -28,7 +28,7 @@ header{
   background-color: var(--dark-color);
   color: var(--light-blue);
   padding: 1em 3em;
-  font-size: clamp(0.8rem, 2vw, 1.5rem);
+  font-size: clamp(1.2rem, 2.5vw, 1.8rem);
 }
 .logo{
   display: flex;
@@ -92,7 +92,7 @@ main {
   color: var(--dark-color);
   overflow: hidden;
   margin-bottom: 34px;
-  font-size: clamp(0.9rem, 2vw, 1rem);
+  font-size: clamp(1.1rem, 2vw, 1rem);
 }
 .cv-form h2 {
   text-decoration: underline;
