@@ -20,6 +20,10 @@ function Preview(props){
                     <p className='description'>{personal.description.trim()}</p>
                 </section>
                 <section className='preview-section'>
+                    <h3>Education</h3>
+                    {educationCards}
+                </section>
+                <section className='preview-section'>
                     <h3>Experience</h3>
                     {experienceCards}
                 </section>
