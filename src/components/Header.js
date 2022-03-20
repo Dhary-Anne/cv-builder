@@ -8,7 +8,7 @@ function Header(props){
                 <h1>CV Builder</h1>
             </div>
             <button className='flip-button btn' onClick={handleFlip}>
-                <span className='icons'></span>
+                <span className='icons'>Mode</span>
             </button>
         </header>
     );

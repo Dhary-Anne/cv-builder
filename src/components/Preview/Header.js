@@ -10,10 +10,16 @@ function Header(props){
                 </h2>
                 <p>{personal.jobTitle.trim()}</p>
             </div>
-            <div>
-                <p>{personal.phoneNumber.trim()}</p>
-                <p>{personal.email.trim()}</p>
-                <p>{personal.address.trim()}</p>
+            <div className='header-right'>
+                <p>
+                <i className='fas fa-phone'></i>&nbsp;
+                    {personal.phoneNumber.trim()}</p>
+                <p>
+                <i className='fas fa-envelope'></i>&nbsp;
+                    {personal.email.trim()}</p>
+                <p>
+                <i className='fas fa-map-marker-alt'></i>&nbsp;
+                    {personal.address.trim()}</p>
             </div>
         </div>
     );
